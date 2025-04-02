@@ -17,7 +17,7 @@ Me chamo Fellipe Timbó Martins Rodrigues, tenho 18 anos e sou natural de Brasí
     align="left" 
     alt="JAVA"
     title="JAVA" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -25,7 +25,7 @@ Me chamo Fellipe Timbó Martins Rodrigues, tenho 18 anos e sou natural de Brasí
     align="left" 
     alt="MYSQL"
     title="MYSQL" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -33,7 +33,7 @@ Me chamo Fellipe Timbó Martins Rodrigues, tenho 18 anos e sou natural de Brasí
     align="left" 
     alt="MAVEN"
     title="MAVEN" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
 />
@@ -41,7 +41,7 @@ Me chamo Fellipe Timbó Martins Rodrigues, tenho 18 anos e sou natural de Brasí
     align="left" 
     alt="IntelliJ"
     title="IntelliJ" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
 />
@@ -49,7 +49,7 @@ Me chamo Fellipe Timbó Martins Rodrigues, tenho 18 anos e sou natural de Brasí
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -57,7 +57,7 @@ Me chamo Fellipe Timbó Martins Rodrigues, tenho 18 anos e sou natural de Brasí
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -66,7 +66,7 @@ Me chamo Fellipe Timbó Martins Rodrigues, tenho 18 anos e sou natural de Brasí
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -74,7 +74,7 @@ Me chamo Fellipe Timbó Martins Rodrigues, tenho 18 anos e sou natural de Brasí
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -82,7 +82,7 @@ Me chamo Fellipe Timbó Martins Rodrigues, tenho 18 anos e sou natural de Brasí
     align="left" 
     alt="Spring" 
     title="Spring"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />

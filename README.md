@@ -97,7 +97,7 @@ Me chamo Fellipe Timbó Martins Rodrigues, tenho 18 anos e sou natural de Brasí
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelpTec&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>

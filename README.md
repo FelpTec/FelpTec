@@ -5,7 +5,7 @@
 Me chamo Fellipe Timbó Martins Rodrigues, tenho 18 anos e sou natural de Brasília-DF. Concluí o ensino médio no CEM 03, juntamente com o curso técnico em Desenvolvedor de Software pela instituição SENAI. Atualmente, estou cursando Engenharia de Software na Universidade Católica de Brasília. Sou apaixonado por tecnologia e desde pequeno busco me aventurar nessa área, buscando conhecimentos e sempre em constante evolução.
 
 <div> 
-  <a href="https://www.instagram.com/felp.xzx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/felp.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:felpzacc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
